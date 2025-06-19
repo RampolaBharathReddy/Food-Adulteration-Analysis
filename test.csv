@@ -1,0 +1,101 @@
+adulteration_id,product_name,brand,category,adulterant,detection_date,detection_method,severity,health_risk
+508,Wine,BrandD,Beverages,Coloring agents,05-10-2024,Spectroscopy,Moderate,Low
+819,Chicken,BrandD,Beverages,Water,05-10-2024,Microbiological Analysis,Moderate,Medium
+453,Wine,BrandE,Bakery,Chalk,1/20/2024,Chemical Analysis,Minor,Low
+369,Milk,BrandC,Condiments,Melamine,2/25/2024,Spectroscopy,Severe,High
+243,Chicken,BrandD,Meat,Coloring agents,6/15/2024,Microbiological Analysis,Severe,High
+930,Yogurt,BrandC,Dairy,Water,3/26/2024,Microbiological Analysis,Moderate,Low
+263,Bread,BrandB,Condiments,Coloring agents,4/26/2024,Sensory Evaluation,Moderate,Low
+811,Honey,BrandE,Bakery,Melamine,5/20/2024,Spectroscopy,Severe,High
+319,Honey,BrandA,Dairy,Water,03-03-2024,Microbiological Analysis,Moderate,Low
+50,Butter,BrandE,Beverages,Chalk,6/23/2024,Chemical Analysis,Minor,Low
+447,Yogurt,BrandA,Beverages,Artificial sweeteners,5/31/2024,Chemical Analysis,Minor,High
+143,Butter,BrandA,Dairy,Coloring agents,06-06-2024,Sensory Evaluation,Minor,High
+969,Bread,BrandD,Dairy,Coloring agents,02-12-2024,Microbiological Analysis,Severe,High
+346,Juice,BrandE,Meat,Artificial sweeteners,2/26/2024,Microbiological Analysis,Minor,Medium
+972,Wine,BrandC,Dairy,Artificial sweeteners,4/26/2024,Chemical Analysis,Moderate,Medium
+134,Bread,BrandE,Meat,Melamine,01-03-2024,Chemical Analysis,Moderate,Low
+105,Milk,BrandA,Dairy,Water,5/13/2024,Sensory Evaluation,Severe,Medium
+7,Beef,BrandC,Meat,Melamine,04-01-2024,Chemical Analysis,Minor,Medium
+601,Yogurt,BrandD,Beverages,Artificial sweeteners,4/30/2024,Microbiological Analysis,Moderate,Medium
+497,Beef,BrandC,Bakery,Artificial sweeteners,01-10-2024,Microbiological Analysis,Severe,High
+703,Honey,BrandA,Condiments,Artificial sweeteners,01-09-2024,Sensory Evaluation,Moderate,Low
+473,Milk,BrandE,Condiments,Melamine,2/16/2024,Sensory Evaluation,Severe,Low
+599,Wine,BrandA,Bakery,Melamine,03-01-2024,Spectroscopy,Minor,High
+503,Juice,BrandB,Dairy,Coloring agents,5/28/2024,Sensory Evaluation,Severe,High
+434,Cheese,BrandD,Beverages,Artificial sweeteners,2/29/2024,Sensory Evaluation,Moderate,High
+120,Juice,BrandC,Dairy,Water,05-07-2024,Spectroscopy,Minor,Low
+109,Wine,BrandC,Beverages,Artificial sweeteners,06-07-2024,Spectroscopy,Minor,Medium
+648,Cheese,BrandC,Beverages,Melamine,2/26/2024,Microbiological Analysis,Minor,Low
+590,Butter,BrandC,Condiments,Melamine,3/14/2024,Sensory Evaluation,Severe,Medium
+375,Milk,BrandD,Dairy,Water,2/16/2024,Chemical Analysis,Severe,Low
+911,Bread,BrandE,Condiments,Coloring agents,3/26/2024,Spectroscopy,Moderate,Low
+719,Bread,BrandA,Beverages,Melamine,4/24/2024,Sensory Evaluation,Minor,Low
+745,Juice,BrandD,Meat,Artificial sweeteners,01-09-2024,Microbiological Analysis,Minor,Low
+495,Juice,BrandC,Meat,Water,02-01-2024,Microbiological Analysis,Minor,Low
+405,Chicken,BrandB,Condiments,Artificial sweeteners,02-02-2024,Microbiological Analysis,Minor,High
+275,Juice,BrandC,Bakery,Coloring agents,6/14/2024,Sensory Evaluation,Minor,Low
+79,Cheese,BrandC,Dairy,Chalk,4/24/2024,Sensory Evaluation,Severe,High
+722,Milk,BrandE,Dairy,Water,05-06-2024,Chemical Analysis,Severe,High
+645,Honey,BrandA,Meat,Melamine,3/29/2024,Chemical Analysis,Moderate,High
+615,Chicken,BrandE,Beverages,Coloring agents,06-05-2024,Sensory Evaluation,Severe,High
+873,Milk,BrandC,Condiments,Water,6/25/2024,Sensory Evaluation,Minor,High
+692,Wine,BrandD,Beverages,Artificial sweeteners,03-01-2024,Microbiological Analysis,Moderate,Medium
+91,Chicken,BrandB,Bakery,Chalk,02-10-2024,Spectroscopy,Minor,Medium
+102,Juice,BrandC,Meat,Chalk,05-01-2024,Chemical Analysis,Severe,Medium
+95,Butter,BrandD,Dairy,Melamine,06-03-2024,Chemical Analysis,Severe,Medium
+578,Milk,BrandD,Beverages,Water,2/15/2024,Sensory Evaluation,Moderate,Medium
+538,Chicken,BrandD,Beverages,Melamine,01-09-2024,Microbiological Analysis,Minor,Low
+42,Milk,BrandD,Bakery,Artificial sweeteners,04-09-2024,Microbiological Analysis,Severe,Low
+454,Yogurt,BrandE,Dairy,Water,4/14/2024,Spectroscopy,Minor,Low
+996,Butter,BrandD,Beverages,Artificial sweeteners,6/13/2024,Chemical Analysis,Minor,Medium
+714,Milk,BrandE,Bakery,Water,02-08-2024,Sensory Evaluation,Minor,Low
+35,Juice,BrandE,Meat,Water,06-09-2024,Spectroscopy,Moderate,Low
+640,Honey,BrandB,Condiments,Artificial sweeteners,4/22/2024,Chemical Analysis,Severe,High
+36,Honey,BrandE,Beverages,Melamine,1/31/2024,Microbiological Analysis,Severe,Medium
+149,Chicken,BrandE,Meat,Artificial sweeteners,02-10-2024,Sensory Evaluation,Minor,High
+456,Milk,BrandE,Dairy,Coloring agents,2/16/2024,Sensory Evaluation,Moderate,Low
+886,Milk,BrandB,Meat,Water,2/15/2024,Chemical Analysis,Moderate,Low
+678,Bread,BrandA,Condiments,Water,1/16/2024,Sensory Evaluation,Moderate,Medium
+487,Butter,BrandE,Beverages,Melamine,3/30/2024,Spectroscopy,Severe,High
+686,Chicken,BrandB,Dairy,Water,5/26/2024,Chemical Analysis,Severe,Low
+308,Chicken,BrandA,Condiments,Chalk,05-12-2024,Chemical Analysis,Severe,Medium
+239,Chicken,BrandC,Meat,Coloring agents,06-10-2024,Spectroscopy,Minor,Medium
+396,Butter,BrandB,Dairy,Melamine,06-06-2024,Chemical Analysis,Minor,High
+735,Yogurt,BrandC,Dairy,Chalk,2/23/2024,Microbiological Analysis,Severe,Low
+823,Bread,BrandB,Condiments,Coloring agents,06-03-2024,Sensory Evaluation,Moderate,Medium
+813,Juice,BrandE,Dairy,Artificial sweeteners,4/15/2024,Sensory Evaluation,Minor,Low
+465,Juice,BrandE,Bakery,Coloring agents,4/14/2024,Spectroscopy,Minor,High
+817,Bread,BrandB,Dairy,Melamine,3/16/2024,Microbiological Analysis,Minor,Low
+529,Bread,BrandC,Condiments,Chalk,01-04-2024,Sensory Evaluation,Moderate,Low
+18,Yogurt,BrandB,Bakery,Chalk,06-10-2024,Spectroscopy,Moderate,High
+710,Yogurt,BrandE,Bakery,Coloring agents,2/24/2024,Microbiological Analysis,Moderate,Medium
+371,Wine,BrandD,Beverages,Water,02-06-2024,Spectroscopy,Severe,Medium
+242,Juice,BrandC,Beverages,Coloring agents,06-06-2024,Microbiological Analysis,Minor,High
+965,Chicken,BrandD,Dairy,Chalk,03-08-2024,Chemical Analysis,Moderate,Medium
+458,Honey,BrandB,Beverages,Artificial sweeteners,1/17/2024,Sensory Evaluation,Minor,Low
+66,Chicken,BrandD,Dairy,Artificial sweeteners,01-08-2024,Spectroscopy,Minor,Medium
+192,Milk,BrandC,Meat,Water,06-10-2024,Spectroscopy,Moderate,Medium
+839,Bread,BrandA,Beverages,Artificial sweeteners,04-02-2024,Sensory Evaluation,Severe,High
+332,Butter,BrandB,Dairy,Melamine,6/18/2024,Microbiological Analysis,Severe,High
+639,Beef,BrandE,Condiments,Artificial sweeteners,4/15/2024,Sensory Evaluation,Moderate,Low
+256,Honey,BrandD,Beverages,Artificial sweeteners,01-10-2024,Chemical Analysis,Severe,High
+743,Juice,BrandA,Meat,Water,6/27/2024,Chemical Analysis,Minor,Medium
+757,Honey,BrandA,Meat,Artificial sweeteners,3/26/2024,Microbiological Analysis,Moderate,Medium
+758,Cheese,BrandA,Beverages,Water,3/18/2024,Chemical Analysis,Severe,Medium
+952,Honey,BrandC,Bakery,Artificial sweeteners,2/27/2024,Spectroscopy,Minor,Medium
+993,Chicken,BrandE,Meat,Chalk,3/20/2024,Chemical Analysis,Severe,Low
+464,Butter,BrandE,Bakery,Artificial sweeteners,6/30/2024,Sensory Evaluation,Severe,High
+844,Wine,BrandE,Meat,Water,1/17/2024,Spectroscopy,Minor,Low
+574,Cheese,BrandC,Dairy,Artificial sweeteners,05-07-2024,Sensory Evaluation,Moderate,Medium
+528,Wine,BrandA,Dairy,Melamine,3/16/2024,Microbiological Analysis,Minor,Low
+655,Cheese,BrandB,Dairy,Melamine,1/24/2024,Microbiological Analysis,Severe,Medium
+190,Juice,BrandD,Bakery,Chalk,2/27/2024,Spectroscopy,Severe,Low
+518,Yogurt,BrandC,Beverages,Coloring agents,1/15/2024,Spectroscopy,Moderate,High
+957,Butter,BrandC,Meat,Water,2/28/2024,Spectroscopy,Moderate,High
+415,Butter,BrandB,Dairy,Chalk,2/18/2024,Chemical Analysis,Minor,Low
+672,Butter,BrandC,Condiments,Water,1/14/2024,Spectroscopy,Moderate,Low
+560,Milk,BrandA,Dairy,Melamine,04-11-2024,Spectroscopy,Severe,Medium
+594,Honey,BrandD,Beverages,Coloring agents,06-10-2024,Spectroscopy,Moderate,Low
+259,Chicken,BrandB,Beverages,Artificial sweeteners,2/15/2024,Sensory Evaluation,Moderate,Medium
+155,Chicken,BrandA,Bakery,Artificial sweeteners,6/16/2024,Spectroscopy,Moderate,High
